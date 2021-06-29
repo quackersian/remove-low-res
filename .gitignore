@@ -130,5 +130,7 @@ dmypy.json
 
 # Reddit PRAW
 prawCreds.py
-.vscode
 __pycache__
+700x700img.png
+800x800img.png
+900x900img.png

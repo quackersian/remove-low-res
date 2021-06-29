@@ -1,0 +1,2 @@
+
+2021-06-29 14:28:31 INFO - Logged in as ImageAnalyserBot, running Image Analyser Bot by /u/quackers987
